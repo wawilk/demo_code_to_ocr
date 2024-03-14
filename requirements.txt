@@ -1,0 +1,9 @@
+# older version of the package
+azure.ai.formrecognizer==3.3.2
+#
+# newer version & not yet GA
+# choose on or another
+azure-ai-documentintelligence==1.0.0b2
+#
+azure.identity
+azure.core
